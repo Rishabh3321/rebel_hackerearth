@@ -52,7 +52,10 @@ function App() {
             return (
               <Card
                 beer={beer}
-                link={beerImages[index % 5].image}
+                link={
+                  beerImages[index % 5].image ||
+                  "https://s3-ap-southeast-1.amazonaws.com/he-public-data/csm_01_02-2019_Beer_Brewing_53ef2818e58285158.png"
+                }
                 key={index}
               />
             );
