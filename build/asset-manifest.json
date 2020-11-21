@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rebel_hackerearth/static/css/main.df7adc6c.chunk.css",
+    "main.js": "/rebel_hackerearth/static/js/main.54364d89.chunk.js",
+    "main.js.map": "/rebel_hackerearth/static/js/main.54364d89.chunk.js.map",
+    "runtime-main.js": "/rebel_hackerearth/static/js/runtime-main.30f87f31.js",
+    "runtime-main.js.map": "/rebel_hackerearth/static/js/runtime-main.30f87f31.js.map",
+    "static/js/2.45167e6f.chunk.js": "/rebel_hackerearth/static/js/2.45167e6f.chunk.js",
+    "static/js/2.45167e6f.chunk.js.map": "/rebel_hackerearth/static/js/2.45167e6f.chunk.js.map",
+    "index.html": "/rebel_hackerearth/index.html",
+    "precache-manifest.d1022aec9ac55cc68b1f02ac8b7c5b5a.js": "/rebel_hackerearth/precache-manifest.d1022aec9ac55cc68b1f02ac8b7c5b5a.js",
+    "service-worker.js": "/rebel_hackerearth/service-worker.js",
+    "static/css/main.df7adc6c.chunk.css.map": "/rebel_hackerearth/static/css/main.df7adc6c.chunk.css.map",
+    "static/js/2.45167e6f.chunk.js.LICENSE.txt": "/rebel_hackerearth/static/js/2.45167e6f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30f87f31.js",
+    "static/js/2.45167e6f.chunk.js",
+    "static/css/main.df7adc6c.chunk.css",
+    "static/js/main.54364d89.chunk.js"
+  ]
+}

@@ -1,4 +1,5 @@
 {
+  "homepage": "http://Rishabh3321.github.io/rebel_hackerearth",
   "name": "react-tailwind-starter",
   "version": "0.1.0",
   "private": true,
@@ -19,7 +20,9 @@
     "start": "npm run build:css && react-scripts start",
     "build": "npm run purge:css && react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
