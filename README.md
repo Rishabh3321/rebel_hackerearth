@@ -2,6 +2,12 @@
 
 4 Hour long challenge.
 
+[How to run this project]
+
+- Install Moesif CORS extension before runing
+
+- npm install && npm start
+
 Problem Statement]
 
 Develop a pseudo Front End Application in Angular/React/Vue/HTML CSS JS, which would let the users list and browse Beer Brands conveniently.
